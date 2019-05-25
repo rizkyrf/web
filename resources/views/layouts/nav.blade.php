@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light text-light" style="background-color:#000000">
             <div class="container">
                 <a class="navbar-brand text-light" href="{{ url('/') }}">
-                    <i class="fa fa-brain" aria-hidden="true"></i> Sovh </a>
+                    <i class="fa fa-watch" aria-hidden="true"></i> Watch Shop </a>
                     
                     <div class="navbar-nav ">
                         <li class="nav-item dropdown">
@@ -10,7 +10,7 @@
                                 <i class="fa fa-list">Category</i>
                         </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="{{ url('products') }}" class="nav-link">Novel</a>
+                                <a class="dropdown-item" href="{{ url('products') }}" class="nav-link">Jam Keren</a>
                         </li>
                     </div>
                 <div class="input-group" style="width:400px;">
